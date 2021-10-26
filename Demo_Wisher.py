@@ -4,8 +4,8 @@ import smtplib
 import random
 import pywhatkit
 
-MY_EMAIL = ""
-MY_PASSWORD = ""
+MY_EMAIL = "" #add your g-mail here
+MY_PASSWORD = "" #add your g-mail password here
 
 now = dt.datetime.now()
 month = now.month
